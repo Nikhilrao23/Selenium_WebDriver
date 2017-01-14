@@ -1,0 +1,47 @@
+1483852737720	geckodriver	INFO	Listening on 127.0.0.1:50470
+1483853059111	geckodriver	INFO	Listening on 127.0.0.1:50504
+1483853061157	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.qbBW7zgByQu9
+1483853061173	geckodriver::marionette	INFO	Starting browser path/to/installed firefox binary
+1483853081166	geckodriver	INFO	Listening on 127.0.0.1:50512
+1483853287514	geckodriver	INFO	Listening on 127.0.0.1:50538
+1483854376356	geckodriver	INFO	Listening on 127.0.0.1:49483
+1483895259605	geckodriver	INFO	Listening on 127.0.0.1:50401
+1483898079553	geckodriver	INFO	Listening on 127.0.0.1:50649
+1483898081577	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.1KWRllXyNLS4
+1483898081582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483898269946	geckodriver	INFO	Listening on 127.0.0.1:50686
+1483898271954	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.XWF2WWdJpWMJ
+1483898271960	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483898481103	geckodriver	INFO	Listening on 127.0.0.1:50718
+1483898483123	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.KbvhBrwC1H5h
+1483898483129	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483898483269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50724
+1483901622543	geckodriver	INFO	Listening on 127.0.0.1:50943
+1483901624559	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.iNvgUo1Vcqg7
+1483901624565	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483901624619	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50949
+1483901627104	Marionette	INFO	Listening on port 50949
+1483902079704	geckodriver	INFO	Listening on 127.0.0.1:51033
+1483902081715	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.tXgrHLVXlwh8
+1483902081721	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483902081767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51039
+1483902084428	Marionette	INFO	Listening on port 51039
+1483918277988	geckodriver	INFO	Listening on 127.0.0.1:51830
+1483918279989	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.DblJFfJalOvY
+1483918279994	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483918280048	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51836
+1483918283082	Marionette	INFO	Listening on port 51836
+[Child 5672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1483918483366	geckodriver	INFO	Listening on 127.0.0.1:51882
+1483918485365	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.tcvA0qYI5Q7T
+1483918485374	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483918485436	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51888
+1483918488148	Marionette	INFO	Listening on port 51888
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 483: TypeError: this.tablesData[table] is undefined
+1483918601239	geckodriver	INFO	Listening on 127.0.0.1:51934
+1483918603287	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.IWYOn81SOxnG
+1483918603306	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483918603356	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51940
+1483918606084	Marionette	INFO	Listening on port 51940
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object

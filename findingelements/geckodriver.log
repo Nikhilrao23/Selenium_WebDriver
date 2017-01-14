@@ -1,0 +1,165 @@
+1483983433693	geckodriver	INFO	Listening on 127.0.0.1:54513
+1483983544224	geckodriver	INFO	Listening on 127.0.0.1:54521
+1483983546224	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.TQPCZHTKX7qA
+1483983546239	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483983546304	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54527
+1483983549429	Marionette	INFO	Listening on port 54527
+[Child 8000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1483984155646	geckodriver	INFO	Listening on 127.0.0.1:54633
+1483984157701	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.GMBpgOxkPyPW
+1483984157716	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483984157789	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54640
+1483984160626	Marionette	INFO	Listening on port 54640
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+[Child 2636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+O	Connecting to Marionette on localhost:54720
+1483984257331	Marionette	INFO	Listening on port 54720
+1483992070271	geckodriver	INFO	Listening on 127.0.0.1:55113
+1483992072294	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.Q0lmi5SnQKJP
+1483992072299	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483992072348	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55119
+1483992074887	Marionette	INFO	Listening on port 55119
+[Child 10120] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+.YVtxmwBJbz1x
+1483992150811	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483992150857	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55205
+1483992153067	Marionette	INFO	Listening on port 55205
+[Child 8632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 109ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+[Child 9660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1483993039474	geckodriver	INFO	Listening on 127.0.0.1:55908
+1483993041499	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.q0SraJRL7fvW
+1483993041505	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483993041553	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55914
+1483993044075	Marionette	INFO	Listening on port 55914
+[Child 7228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1483993443847	geckodriver	INFO	Listening on 127.0.0.1:56108
+1483993445863	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.uZAftDnRVzLI
+1483993445869	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483993445922	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56114
+1483993448887	Marionette	INFO	Listening on port 56114
+[Child 11180] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11180] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1483994187885	geckodriver	INFO	Listening on 127.0.0.1:56286
+1483994189901	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.NxLDQeWnGrqz
+1483994189907	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483994189957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56294
+1483994192580	Marionette	INFO	Listening on port 56294
+1483995030512	geckodriver	INFO	Listening on 127.0.0.1:56415
+1483995032536	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.16R3ypp0H26O
+1483995032542	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483995032604	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56421
+1483995035115	Marionette	INFO	Listening on port 56421
+1483995143074	geckodriver	INFO	Listening on 127.0.0.1:56513
+1483995145084	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.YmL4cRiR0Hwg
+1483995145118	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483995145167	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56519
+1483995147575	Marionette	INFO	Listening on port 56519
+[Child 9892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+e.GEyWF67WhHuo
+1483995453294	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483995453356	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56617
+1483995456211	Marionette	INFO	Listening on port 56617
+[Child 10936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1483996009609	geckodriver	INFO	Listening on 127.0.0.1:56782
+1483996011621	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.HGXfZdC23bm5
+1483996011627	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483996011686	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56788
+1483996014427	Marionette	INFO	Listening on port 56788
+1483996050324	geckodriver	INFO	Listening on 127.0.0.1:56860
+1483996052326	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.DZ1C2bwWry8i
+1483996052332	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483996052383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56866
+1483996055021	Marionette	INFO	Listening on port 56866
+[Child 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+O	Connecting to Marionette on localhost:56954
+1483996131549	Marionette	INFO	Listening on port 56954
+[Child 7452] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7452] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1483997254043	geckodriver	INFO	Listening on 127.0.0.1:57095
+1483997256066	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.JdDTWaeS5rd9
+1483997256072	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483997256125	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57101
+1483997258628	Marionette	INFO	Listening on port 57101
+[Child 9232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+O	Connecting to Marionette on localhost:57184
+1483997462764	Marionette	INFO	Listening on port 57184
+1483997670955	geckodriver	INFO	Listening on 127.0.0.1:57264
+1483997672969	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.fQ8glD8xKVYM
+1483997672975	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483997673031	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57270
+1483997675772	Marionette	INFO	Listening on port 57270
+1483998662819	geckodriver	INFO	Listening on 127.0.0.1:57384
+1483998664833	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.8US5ovdJlruL
+1483998664864	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483998664940	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57390
+1483998667917	Marionette	INFO	Listening on port 57390
+[Child 4212] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+e.PQ1BDtxdZXPe
+1483998720541	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483998720589	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57462
+1483998722999	Marionette	INFO	Listening on port 57462
+[Child 10424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+.aIIoR8XYiW74
+1483998842867	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1483998842915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57544
+1483998845977	Marionette	INFO	Listening on port 57544
+1484005422115	geckodriver	INFO	Listening on 127.0.0.1:57933
+1484005424107	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.R8Et57DE8br3
+1484005424123	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1484005424185	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57939
+1484005427593	Marionette	INFO	Listening on port 57939
+1484005455519	geckodriver	INFO	Listening on 127.0.0.1:58004
+1484005457527	mozprofile::profile	INFO	Using profile path C:\Users\Nikhil\AppData\Local\Temp\rust_mozprofile.dEmmUFtcOiMT
+1484005457544	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\Firefox.exe
+1484005457591	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58011
+1484005460266	Marionette	INFO	Listening on port 58011
